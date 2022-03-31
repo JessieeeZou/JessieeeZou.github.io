@@ -1,1 +1,9 @@
+---
+title: New Post
+author: Xiaoxu Zou
+date: 2020-03-31
+category: Jekyll
+layout: post
+---
+
 A new post
