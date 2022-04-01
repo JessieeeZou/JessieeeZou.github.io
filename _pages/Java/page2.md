@@ -1,6 +1,6 @@
 ---
 title: page2
-author: Tao He
+author: Xiaoxu Zou
 date: 2022-02-03
 layout: post
 ---
