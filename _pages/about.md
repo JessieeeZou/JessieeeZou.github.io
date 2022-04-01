@@ -1,8 +1,8 @@
 ---
-title: page1
+title: About
 author: Xiaoxu Zou
 date: 2022-02-03
-layout: post
+layout: home
 ---
 
-Jessie啦啦啦
+Jessie
