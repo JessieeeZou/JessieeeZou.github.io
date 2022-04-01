@@ -165,27 +165,6 @@ class Solution{
     return -1;
     }
 }
-
-public class TwoDBinarySearch{
-    public static void main(String[] args){
-        int[][] matrix = {{1,2,3,4,5},
-                        {6,7,8,9,10},
-                        {11,12,13,14,15},
-                        {16,17,18,19,20}};
-        //int row = matrix.length;
-        int col = matrix[0].length;
-        int target = 11;
-        Solution t = new Solution();
-        int result = t.search(matrix, target);
-        int r = result / col;
-        int c = result % col;
-        if (result == -1){
-            System.out.println("Target is not in the matrix");
-        }else{
-        System.out.println("Target is at row " + r + " and column " + c);
-        }
-    }
-}
 ```
 
 ### Examples
