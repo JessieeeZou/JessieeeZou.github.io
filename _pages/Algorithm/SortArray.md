@@ -6,11 +6,14 @@ category: Algorithm
 layout: post
 ---
 # Sort Array
+
 排序数组Leetcode官方解答：
 https://leetcode-cn.com/problems/sort-an-array/solution/pai-xu-shu-zu-by-leetcode-solution/
+
 排序算法复习：
 https://leetcode-cn.com/problems/sort-an-array/solution/fu-xi-ji-chu-pai-xu-suan-fa-java-by-liweiwei1419/
 ![avatar](https://img-blog.csdn.net/20160427211748597)
+
 ### 1. Selection Sort
 
 *设置一个globalmin，每次找到最小值swap到最前面，用双指针双循环和globalmin解决。*

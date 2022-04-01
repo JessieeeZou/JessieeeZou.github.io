@@ -7,7 +7,6 @@ layout: post
 ---
 # Linked List
 
-<font size=2.5>
 <b>JAVA构建方法</b>
 
 https://www.cnblogs.com/qifengshi/p/6401744.html
